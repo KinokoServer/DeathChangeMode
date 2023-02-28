@@ -1,0 +1,7 @@
+name: DeathChangeMode
+version: '${project.version}'
+main: net.kinoko.deathchangemode.DeathChangeMode
+api-version: 1.19
+authors: [ Kinoko_2K ]
+description: plugin to change to the game mode saved in config when you die.
+website: kinoko.ddns.net
